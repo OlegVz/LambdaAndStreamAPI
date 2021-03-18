@@ -1,4 +1,4 @@
-package com.hybris.internship.practiceWithLambdas;
+package com.hybris.internship.lambda.practiceWithLambdas;
 
 @FunctionalInterface
 public interface Walkable {

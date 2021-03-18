@@ -1,4 +1,4 @@
-package com.hybris.internship.functionalInterfacesAndLambdas;
+package com.hybris.internship.lambda.functionalInterfacesAndLambdas;
 
 public class App {
 

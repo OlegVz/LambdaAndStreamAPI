@@ -1,4 +1,4 @@
-package com.hybris.internship.lambdaPractical;
+package com.hybris.internship.lambda.lambdaPractical;
 
 public class Car {
 

@@ -1,4 +1,4 @@
-package com.hybris.internship.functionalInterfacesAndLambdas;
+package com.hybris.internship.lambda.practiceWithLambdas;
 
 public class Human implements Walkable {
 
